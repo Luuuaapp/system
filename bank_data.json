@@ -1,0 +1,14 @@
+{
+  "1234": {
+    "name": "Mos'ab",
+    "balance": 5000.0,
+    "password": "9b8769a4a742959a2d0298c36fb70623f2dfacda8436237df08d8dfd5b37374c",
+    "transactions": []
+  },
+  "5678": {
+    "name": "Yamba boy",
+    "balance": 3000.0,
+    "password": "cfbf28a5993c7f123ecc95b70fcecd2d364866c4e7bd496959a451a38add5bee",
+    "transactions": []
+  }
+}
